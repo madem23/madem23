@@ -56,7 +56,7 @@
   <img src="assets/cub3d_visual.gif" alt="cube3D Visuals" height="300"/>
 </div>
 
-### Transcendence
+### [Transcendence](https://github.com/madem23/Transcendence)
 <div style="display: flex; justify-content: center;">
   <img src="assets/transcendence_visual.png" alt="Transcendence Visuals" height="430"/>
 </div>
